@@ -12,6 +12,7 @@
 | 3021101769 | Daniel Lavechia Cardoso    	| TADS  | 1A    |
 | 3021103005 | Vitor Meneghetti Peristrello	| TADS  | 1A    |
 | 3021100193 | Danilo Assumpção Gomes		| TADS  | 1A 	|
+| 3020100924 | Daniel Junior de Oliveira	| TADS	| 3A	|
 
 ## Descrição do Projeto
 Sistema de cadastro e login de clientes para conceder acesso ao cliente à uma página web, utilizando HTML, CSS, PHP, MYSQL.
