@@ -13,7 +13,7 @@
 | 785        | ÚLTIMO NOME   | TADS  | 1A    |
 
 ## Descrição do Projeto
-Descrever brevemente o objetivo do projeto e como será alcançado. Por exemplo, citar as metodologias utilizadas, linguagens de programação, etc.
+Sistema de cadastro e login de clientes para conceder acesso ao cliente à uma página web.
 
 ## Endereço da Aplicação
 Informar o endereço IP ou URL da aplicação, conforme exemplo abaixo. É importante lembrar que a máquinas em *Cloud* devem estar "no ar" para que as funcionalidades da aplicação estejam disponíveis. Caso não estejam disponíveis os serviços ou a aplicação não puder ser executada, não háverá como atribuir uma nota.
