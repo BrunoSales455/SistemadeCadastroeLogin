@@ -1,7 +1,7 @@
 # SISTEMA DE CADASTRO DE CLIENTES.
 
 ## Dados da Turma
-* Dia da semana: **Quarta-Feira**
+* Dia da semana: **Quinta-Feira**
 * Período: **Noturno**
 
 ## Integrantes
