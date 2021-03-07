@@ -26,5 +26,3 @@ Informar o endereço IP ou URL da aplicação, conforme exemplo abaixo. É impor
 
 ## Outras Observações
 
-Teste 1
-teste 2
