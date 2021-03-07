@@ -5,12 +5,13 @@
 * Período: **Noturno**
 
 ## Integrantes
-| RA         | NOME COMPLETO | CURSO | TURMA |
-|------------|---------------|-------|-------|
-| 3019203490 | Bruno dos santos sales  | TADS  | 3A    |
-| 321        | ZÉ CARIOCA    | TADS  | 1A    |
-| 159        | Mc DONALDS    | TADS  | 1A    |
-| 785        | ÚLTIMO NOME   | TADS  | 1A    |
+| RA         | 		NOME COMPLETO 		|CURSO 	| TURMA |
+|------------|----------------------------------|-------|-------|
+| 3019203490 | Bruno dos santos sales  		| TADS  | 3A    |
+| 3021102957 | :Matheus Soldner Llamas Moreno   | TADS  | 1A    |
+| 3021101769 | Daniel Lavechia Cardoso    	| TADS  | 1A    |
+| 3021103005 | Vitor Meneghetti Peristrello	| TADS  | 1A    |
+| 3021100193 | Danilo Assumpção Gomes		| TADS  | 1A 	|
 
 ## Descrição do Projeto
 Sistema de cadastro e login de clientes para conceder acesso ao cliente à uma página web, utilizando HTML, CSS, PHP, MYSQL.
