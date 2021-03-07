@@ -13,7 +13,7 @@
 | 785        | ÚLTIMO NOME   | TADS  | 1A    |
 
 ## Descrição do Projeto
-Sistema de cadastro e login de clientes para conceder acesso ao cliente à uma página web.
+Sistema de cadastro e login de clientes para conceder acesso ao cliente à uma página web, utilizando HTML, CSS, PHP, MYSQL.
 
 ## Endereço da Aplicação
 Informar o endereço IP ou URL da aplicação, conforme exemplo abaixo. É importante lembrar que a máquinas em *Cloud* devem estar "no ar" para que as funcionalidades da aplicação estejam disponíveis. Caso não estejam disponíveis os serviços ou a aplicação não puder ser executada, não háverá como atribuir uma nota.
@@ -23,4 +23,4 @@ Informar o endereço IP ou URL da aplicação, conforme exemplo abaixo. É impor
 	+ [http://suaurl.com](http://suaurl.com)
 
 ## Outras Observações
-Quaisquer instruções sobre instalação, configuração, acesso, etc., deverão constar neste documento para que a correção pelo professor possa ser realizada.
+
